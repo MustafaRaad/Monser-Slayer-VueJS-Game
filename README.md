@@ -1,2 +1,4 @@
 # Monser Slayer VueJS Game
- Simple game made with Vue.js javascript freamwork BY:Mustafa Raad M.
+# Mustafa Raad Mutashar
+ Simple game made with Vue.js javascript freamwork. 
+ copy rights Mustafa Raad M.
